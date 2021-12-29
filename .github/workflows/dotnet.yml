@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:bluecool.ml
+  build:yichengisabadguy.net
 
     runs-on: ubuntu-latest
 
