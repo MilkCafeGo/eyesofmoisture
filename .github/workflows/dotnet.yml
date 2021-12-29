@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:bluecool.net
+  build:bluecool.ml
 
     runs-on: ubuntu-latest
 
